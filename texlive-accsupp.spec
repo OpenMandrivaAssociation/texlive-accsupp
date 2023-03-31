@@ -1,6 +1,6 @@
 Name:		texlive-accsupp
 Version:	53052
-Release:	1
+Release:	2
 Summary:	Better accessibility support for PDF files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/accsupp
