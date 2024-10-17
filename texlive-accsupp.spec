@@ -3,7 +3,7 @@ Version:	53052
 Release:	2
 Summary:	Better accessibility support for PDF files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/accsupp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/accsupp
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/accsupp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/accsupp.doc.r%{version}.tar.xz
